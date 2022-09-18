@@ -1,0 +1,33 @@
+.bg-image{
+background-image: url("bg-image.png");
+min-height: 100vh;
+background-size: cover;
+}
+header{
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+   
+}  
+.header>h2 {
+    font-family:'Times New Roman', Times, serif;
+}
+.clr {
+    color:#F43535;
+}
+.float_left{
+    float: left;
+}
+.float_right{
+    float:right;
+}
+.clear{
+    clear: both;
+}
+.sidebar {
+    background-color: #222;
+    color: #fff;
+} 
+.content{
+    background-color: aliceblue;
+    color: black;
+}
